@@ -1,0 +1,11 @@
+C:\Users\Mad\Documents\Visual Studio 2010\Projects\VP\PlatformerGame\bin\Debug\PlatformerGame.exe
+C:\Users\Mad\Documents\Visual Studio 2010\Projects\VP\PlatformerGame\bin\Debug\PlatformerGame.pdb
+C:\Users\Mad\Documents\Visual Studio 2010\Projects\VP\PlatformerGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mad\Documents\Visual Studio 2010\Projects\VP\PlatformerGame\obj\x86\Debug\PlatformerGame.Properties.Resources.resources
+C:\Users\Mad\Documents\Visual Studio 2010\Projects\VP\PlatformerGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mad\Documents\Visual Studio 2010\Projects\VP\PlatformerGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mad\Documents\Visual Studio 2010\Projects\VP\PlatformerGame\obj\x86\Debug\PlatformerGame.exe
+C:\Users\Mad\Documents\Visual Studio 2010\Projects\VP\PlatformerGame\obj\x86\Debug\PlatformerGame.pdb
+C:\Users\Mad\Documents\Visual Studio 2010\Projects\VP\PlatformerGame\obj\x86\Debug\PlatformerGame.mainMenuForm.resources
+C:\Users\Mad\Documents\Visual Studio 2010\Projects\VP\PlatformerGame\obj\x86\Debug\PlatformerGame.gameForm.resources
+C:\Users\Mad\Documents\Visual Studio 2010\Projects\VP\PlatformerGame\obj\x86\Debug\PlatformerGame.LevelEditorForm.resources

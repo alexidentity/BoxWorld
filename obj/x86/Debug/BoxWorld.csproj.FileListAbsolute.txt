@@ -1,0 +1,22 @@
+C:\Users\Mad\Documents\Visual Studio 2010\Projects\VP\PlatformerGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mad\Documents\Visual Studio 2010\Projects\VP\PlatformerGame\obj\x86\Debug\BoxWorld.Properties.Resources.resources
+C:\Users\Mad\Documents\Visual Studio 2010\Projects\VP\PlatformerGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mad\Documents\Visual Studio 2010\Projects\VP\PlatformerGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mad\Documents\Visual Studio 2010\Projects\VP\PlatformerGame\bin\Debug\BoxWorld.exe
+C:\Users\Mad\Documents\Visual Studio 2010\Projects\VP\PlatformerGame\bin\Debug\BoxWorld.pdb
+C:\Users\Mad\Documents\Visual Studio 2010\Projects\VP\PlatformerGame\obj\x86\Debug\BoxWorld.MainMenuForm.resources
+C:\Users\Mad\Documents\Visual Studio 2010\Projects\VP\PlatformerGame\obj\x86\Debug\BoxWorld.GameForm.resources
+C:\Users\Mad\Documents\Visual Studio 2010\Projects\VP\PlatformerGame\obj\x86\Debug\BoxWorld.LevelEditorForm.resources
+C:\Users\Mad\Documents\Visual Studio 2010\Projects\VP\PlatformerGame\obj\x86\Debug\BoxWorld.exe
+C:\Users\Mad\Documents\Visual Studio 2010\Projects\VP\PlatformerGame\obj\x86\Debug\BoxWorld.pdb
+C:\Users\Mad\BoxWorld\obj\x86\Debug\BoxWorld.exe
+C:\Users\Mad\BoxWorld\obj\x86\Debug\BoxWorld.pdb
+C:\Users\Mad\BoxWorld\bin\Debug\BoxWorld.exe
+C:\Users\Mad\BoxWorld\bin\Debug\BoxWorld.pdb
+C:\Users\Mad\BoxWorld\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mad\BoxWorld\obj\x86\Debug\BoxWorld.MainMenuForm.resources
+C:\Users\Mad\BoxWorld\obj\x86\Debug\BoxWorld.GameForm.resources
+C:\Users\Mad\BoxWorld\obj\x86\Debug\BoxWorld.LevelEditorForm.resources
+C:\Users\Mad\BoxWorld\obj\x86\Debug\BoxWorld.Properties.Resources.resources
+C:\Users\Mad\BoxWorld\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mad\BoxWorld\obj\x86\Debug\GenerateResource.write.1.tlog
